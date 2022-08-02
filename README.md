@@ -29,6 +29,6 @@
 
 <br>
 
-website - [Mo Khaife](https://mo-khaife-site.netlify.app/)
+website - [Mo Khaife](https://mo-khaife-ali.netlify.app/)
 
 Twitter - [@khaife_codes](https://twitter.com/Khaife_Codes)
