@@ -1,0 +1,92 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 16px;
+}
+
+.container {
+  width: 791.99px;
+  margin: 0 auto;
+}
+
+.avatar-img {
+  border-radius: 50%;
+  height: 100px;
+}
+
+.logo {
+  height: 100px;
+}
+.header--container {
+  border-bottom: 2px solid #c6c6c6;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 30px 15px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.post--container {
+  display: flex;
+  padding: 30px;
+}
+.post--avatar {
+  border-radius: 50%;
+  height: 70px;
+}
+
+/* POST DETAILS */
+.post--details {
+  padding: 3px 0px 0px 15px;
+
+  margin-top: -15px;
+  line-height: 16px;
+}
+
+.post--details p {
+  font-size: 17px;
+  padding-bottom: 5px;
+}
+
+/* LOGOS */
+.icon--container {
+  height: 100px;
+  padding: 30px;
+  margin-bottom: -40px;
+}
+
+.icon--logo {
+  height: 70px;
+  padding-right: 30px;
+}
+
+/* class name toggled to show or hide heart */
+.hidden {
+  display: none;
+}
+
+/*  Likes & Comment */
+.likes {
+  font-weight: bold;
+  padding-left: 30px;
+}
+.comment span {
+  font-weight: bold;
+}
+
+.likes,
+.comment span,
+.comment {
+  font-size: 30px;
+  line-height: 35px;
+}
+
+.comment {
+  margin-left: 1em;
+}
