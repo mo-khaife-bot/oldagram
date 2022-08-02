@@ -4,7 +4,7 @@
 
 <br>
 
-![screenshot](/Oldagram/images/image1.png)
+![screenshot](./images/image1.png)
 
 <br>
 
